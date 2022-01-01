@@ -137,14 +137,14 @@
 	width: 1920px;
 	height: 600px;
 	overflow: hidden;
-	background: url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPngce061554924799cab85dec37f5b03a77db791d5061cb538dbcf00c5613afda0d)
+	background: url(./img/SketchPngce061554924799cab85dec37f5b03a77db791d5061cb538dbcf00c5613afda0d.png)
 	  100% no-repeat;
   }
 
   .mod2 {
 	z-index: 9;
 	height: 600px;
-	background: url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng84618a8d741ab167ebce462f439e6b6bcf4263ce64077826226694c7b9944e88)
+	background: url(./img/SketchPng84618a8d741ab167ebce462f439e6b6bcf4263ce64077826226694c7b9944e88.png)
 	  100% no-repeat;
 	width: 1397px;
 	position: absolute;
